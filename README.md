@@ -3,8 +3,7 @@
 
 ##### Hi! Welcome to my research and code portfolio.
 
-Questions? Email me:
-
+Questions? Email me:<br>
 [hob4003 at med dot cornell dot edu](mailto:hob4003@med.cornell.edu)
 
 <p>Cognitive neuroscience, like many research fields are now, is being shaken up. Recent advances in the quality and accessibility of powerful computational hardware and data science methods hold countless possibilities for novel imaging analysis approaches. These exciting advances also make honesty and transparency in research more important than ever. I aim to leverage computational innovations to develop sound methods and intuitive tools for the rapidly evolving field of computational cognitive neuroscience, and promote the practices of sharing code and disclosing data analysis procedure.<p>
