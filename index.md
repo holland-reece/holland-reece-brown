@@ -2,7 +2,6 @@
 
 <p>I apply and develop neuroimaging analysis tools for clincial and translational psychology research. Ultimately, I aim to develop sound methods and intuitive tools for the rapidly evolving field of computational cognitive neuroscience.<p>
 
-
 ---
 
 ## Curriculum vitae
