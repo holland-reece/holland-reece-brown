@@ -1,11 +1,9 @@
-<!-- # Holland Reece Brown
+# Holland Reece Brown
 ## Research and code portfolio
 
 
 <p>I apply and develop neuroimaging analysis tools for clincial and translational psychology research. Ultimately, I aim to develop sound methods and intuitive tools for the rapidly evolving field of computational cognitive neuroscience.<p>
 
-Questions? Email me:<br/>
-[hob4003 at med dot cornell dot edu](mailto:hob4003@med.cornell.edu)
 
 ---
 
@@ -21,7 +19,7 @@ Questions? Email me:<br/>
     - proficient in Bash, Matlab, R, and Python programming languages
     - 
 
-### Coding Samples -->
+### Coding Samples
 
 
 
