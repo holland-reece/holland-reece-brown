@@ -6,6 +6,6 @@
 
 <p>I graduated in June, 2022 with a B.S. in Cognitive Science and Computational Methods from the City University of New York, Program for Unique and Interdisciplinary Studies. My research experience spans basic science topics in natural language and visual processing, as well as clinical topics in schizophrenia and major depressive disorder. I am primarily interested in neuroimaging, and aspire to develop new computational tools to improve efficiency and increase the statistical power of current biomedical imaging analysis methods.<p>
 
-## Coding samples
+## Code samples
 
 
