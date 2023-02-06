@@ -1,13 +1,13 @@
 ## About me
 
-<p>I apply and develop neuroimaging analysis tools for clincial and translational psychology research. Ultimately, I aim to develop sound methods and intuitive tools for the rapidly evolving field of computational cognitive neuroscience.<p>
+<p>I'm a research assistant in the Weill Cornell Medicine Institutes of Geriatric Psychiatry and Developmental Psychobiology. I apply and develop computational tools for clincial and translational psychology research.<p>
 
 ---
 
 ## Curriculum vitae
 
-<p>I'm a cognitive neuroscience research assistant at Weill Cornell Medicine, in the Institutes for Developmental Psychobiology and Geriatric Psychiatry. I graduated in June, 2022 with a B.S. in Cognitive Science and Computational Methods from the City University of New York, Program for Unique and Interdisciplinary Studies. My research experience spans basic science topics in natural language and visual processing, as well as clinical topics in schizophrenia and major depressive disorder. I am primarily interested in neuroimaging, and aspire to develop new computational tools to improve efficiency and increase the statistical power of current biomedical imaging analysis methods.<p>
+<p>I graduated in June, 2022 with a B.S. in Cognitive Science and Computational Methods from the City University of New York, Program for Unique and Interdisciplinary Studies. My research experience spans basic science topics in natural language and visual processing, as well as clinical topics in schizophrenia and major depressive disorder. I am primarily interested in neuroimaging, and aspire to develop new computational tools to improve efficiency and increase the statistical power of current biomedical imaging analysis methods.<p>
 
-### Coding samples
+## Coding samples
 
 
