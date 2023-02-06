@@ -1,4 +1,4 @@
-# Holland Reece Brown
+<!-- # Holland Reece Brown
 ## Research and code portfolio
 
 
@@ -21,7 +21,7 @@ Questions? Email me:<br/>
     - proficient in Bash, Matlab, R, and Python programming languages
     - 
 
-### Coding Samples
+### Coding Samples -->
 
 
 
